@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c00d128-4770-40a4-aac0-b778a2166522" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VNpHBx4uQCZMd3WVJWe7hMSM5X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\dev\CS50\ProgrammingMethodologyAllMaterials\ProgrammingMethodology\materials\icspmcs106a\Assignment3\Assignment3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Breakout">
+    <configuration name="Breakout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Breakout" />
+      <module name="Assignment3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Breakout_tonop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Breakout_tonop" />
+      <module name="Assignment3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Breakout" />
+        <item itemvalue="Application.Breakout_tonop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c00d128-4770-40a4-aac0-b778a2166522" name="Default Changelist" comment="" />
+      <created>1577103316193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577103316193</updated>
+      <workItem from="1577103317668" duration="26456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577384502907">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1577384502907" />
+    <state width="1557" height="20" key="GridCell.Tab.0.bottom" timestamp="1577392444026">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="20" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577392444026" />
+    <state width="1557" height="20" key="GridCell.Tab.0.center" timestamp="1577392444025">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="20" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577392444025" />
+    <state width="1557" height="20" key="GridCell.Tab.0.left" timestamp="1577392444025">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="20" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577392444025" />
+    <state width="1557" height="20" key="GridCell.Tab.0.right" timestamp="1577392444025">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="20" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577392444025" />
+    <state width="742" height="275" key="GridCell.Tab.1.bottom" timestamp="1577392444021">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="742" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577392444021" />
+    <state width="742" height="275" key="GridCell.Tab.1.center" timestamp="1577392444021">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="742" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1577392444021" />
+    <state width="742" height="275" key="GridCell.Tab.1.left" timestamp="1577392444021">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="742" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1577392444021" />
+    <state width="742" height="275" key="GridCell.Tab.1.right" timestamp="1577392444021">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="742" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1577392444021" />
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1577114419969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1577114419969" />
+  </component>
+</project>
